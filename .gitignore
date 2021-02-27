@@ -43,3 +43,5 @@ yarn-debug.log*
 *.swp
 
 /config/credentials/development.key
+
+/config/credentials/production.key

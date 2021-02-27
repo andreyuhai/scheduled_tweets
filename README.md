@@ -1,24 +1,8 @@
-# README
+# Scheduled Tweets
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails app created by following [Rails for Beginners](https://gorails.com/series/rails-for-beginners) course by
+Chris Oliver. What the app does is obvious. You can,
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Create an account
+- Connect your Twitter account
+- Schedule Tweets to be tweeted at a specific date and time
